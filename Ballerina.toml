@@ -1,0 +1,17 @@
+[package]
+org = "lakshans"
+name = "gmail_new_attachment_to_azure_blob"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
+
+[[dependency]]
+org = "ballerinax"
+name = "googleapis_gmail"
+version = "0.99.5"
+
+[[dependency]]
+org = "ballerinax"
+name = "googleapis_drive"
+version = "0.1.0"

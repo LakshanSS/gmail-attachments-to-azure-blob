@@ -1,0 +1,13 @@
+[lakshans.gmail_new_attachment_to_azure_blob]
+port = 8080
+topicName = ""
+accessKeyOrSAS = ""
+accountName = ""
+containerName = ""
+
+
+[lakshans.gmail_new_attachment_to_azure_blob.gmailOauthConfig]
+clientId = ""
+clientSecret = ""
+refreshUrl = "https://oauth2.googleapis.com/token"
+refreshToken = ""
